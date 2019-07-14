@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1559295929 source:c:\users\mohit\desktop\cpp files\studentreportcard\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<conio.h>
+	<fstream>
+	<cstdlib>
+
